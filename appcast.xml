@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MacLeo Cameo BetterDriver</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 07 Nov 2026 20:37:33 +0100</pubDate>
+            <sparkle:version>0.1.0</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Leololololo/betterdriver-releases/releases/download/v0.1.0/MacLeo-Cameo-BetterDriver-0.1.0.zip" length="4207099" type="application/octet-stream" sparkle:edSignature="2orXfl5RzBLwbWBwW1aGaXiWpCd4U3W7mYeGg67WY3z01mQZEvcZJbYOVt7efv2zZ94gg2AiiDnsC9DE7uqiCg=="/>
+        </item>
+    </channel>
+</rss>
