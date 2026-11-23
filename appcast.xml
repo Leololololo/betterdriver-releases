@@ -3,6 +3,14 @@
     <channel>
         <title>MacLeo Cameo BetterDriver</title>
         <item>
+            <title>0.2.4</title>
+            <pubDate>Mon, 23 Nov 2026 10:28:27 +0100</pubDate>
+            <sparkle:version>0.2.4</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Leololololo/betterdriver-releases/releases/download/v0.2.4/MacLeo-Cameo-BetterDriver-0.2.4.zip" length="4655106" type="application/octet-stream" sparkle:edSignature="KKmBaE6IEYUw3XmE/Q13HvosgUgVRhjwcbprtmBBsgyCRo40WPVjzgYaBFDGK2NOczRQeIuNd2O0jwV0GQX6DA=="/>
+        </item>
+        <item>
             <title>0.2.3</title>
             <pubDate>Sun, 22 Nov 2026 11:17:16 +0100</pubDate>
             <sparkle:version>0.2.3</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Leololololo/betterdriver-releases/releases/download/v0.2.2/MacLeo-Cameo-BetterDriver-0.2.2.zip" length="4635000" type="application/octet-stream" sparkle:edSignature="MjeFzmQmMi+zPbn0NqwJPRHlHD1LY8bEKzB4PT76mmW142uozjtKuNsZaw+2/s90Yyz8M+QsV77Mtraxg6qdAg=="/>
-        </item>
-        <item>
-            <title>0.2.1</title>
-            <pubDate>Thu, 19 Nov 2026 14:26:27 +0100</pubDate>
-            <sparkle:version>0.2.1</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Leololololo/betterdriver-releases/releases/download/v0.2.1/MacLeo-Cameo-BetterDriver-0.2.1.zip" length="4630258" type="application/octet-stream" sparkle:edSignature="QIoYdlknM34OfkE4+UOrPpMqypH+D1gd+cOXklqXXcBqzlzSkR8pClPWPaxwY6tA+e7FJ3gjN0n6cI1HcDAMCw=="/>
         </item>
     </channel>
 </rss>
